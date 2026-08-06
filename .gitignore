@@ -9,7 +9,7 @@ __pycache__/
 *$py.class
 
 # Models
-*.pkl
+# *.pkl (uncomment to ignore model files in the future)
 
 # Data
 # data/*.csv (uncomment to ignore data files in the future)
