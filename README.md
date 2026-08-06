@@ -6,6 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.20+-FF4B4B.svg)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75.svg)
 
+LINK- https://mobile-gaming-churn-analytics.streamlit.app/
 ---
 
 ## 📌 Project Overview & Problem Statement
