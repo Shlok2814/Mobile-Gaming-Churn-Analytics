@@ -124,3 +124,18 @@ mobile-gaming-churn-analytics/
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 ```
+
+Snapshots-
+<img width="1908" height="892" alt="image" src="https://github.com/user-attachments/assets/332e2086-bd53-4b73-9762-c502929f829d" />
+<img width="1377" height="737" alt="image" src="https://github.com/user-attachments/assets/527d17c0-b2d3-45c2-8e77-e830a4f5b023" />
+<img width="1217" height="401" alt="image" src="https://github.com/user-attachments/assets/e2a979e6-c7e2-4b65-a645-0d98f3f0a084" />
+<img width="1253" height="801" alt="image" src="https://github.com/user-attachments/assets/a421f764-9404-48c5-8c0d-f60e73c7fcd5" />
+<img width="967" height="810" alt="image" src="https://github.com/user-attachments/assets/833c830f-82cc-4b26-b23a-f744b701cc2c" />
+<img width="1127" height="740" alt="image" src="https://github.com/user-attachments/assets/77305773-a39b-4b5f-a46a-a7270cb3f92f" />
+
+
+
+
+
+
+
