@@ -476,7 +476,7 @@ def main():
         st.markdown("---")
 
         st.markdown("<p style='font-size:0.7rem;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:#4a5568;margin-bottom:0.6rem;'>Links</p>", unsafe_allow_html=True)
-        st.markdown("🐙 [GitHub Repository](https://github.com/your-username/mobile-gaming-churn-analytics)")
+        st.markdown("🐙 [GitHub Repository](https://github.com/Shlok2814/Mobile-Gaming-Churn-Analytics)")
 
         st.markdown("---")
 
