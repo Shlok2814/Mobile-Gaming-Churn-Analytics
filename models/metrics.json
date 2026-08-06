@@ -1,0 +1,11 @@
+{
+    "accuracy": 0.8775,
+    "roc_auc": 0.8927,
+    "feature_importances": {
+        "sum_gamerounds": 0.8678,
+        "gate_45_flag": 0.0007,
+        "retention_1_flag": 0.1315
+    },
+    "train_samples": 72150,
+    "test_samples": 18038
+}
